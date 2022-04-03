@@ -8,9 +8,10 @@ Here are some ideas to get you started:
 -->
 
 
-![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pietrobar&show_icons=true&theme=codeSTACKr)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietrobar&layout=compact&langs_count=8)
-
-
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pietrobar&show_icons=true&theme=codeSTACKr" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrobar&layout=compact&langs_count=8" />
+</a>
